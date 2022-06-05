@@ -1,6 +1,6 @@
 #!/bin/bash
 
-target_branch="production"
+target_branch="main"
 # working_tree="PATH_TO_DEPLOY"
 
 while read oldrev newrev refname
